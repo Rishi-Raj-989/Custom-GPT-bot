@@ -1,0 +1,21 @@
+Features of Car Model
+1. Honda Civic :-
+    2.0L 4-cylinder engine with up to 158 horsepower
+    Up to 42 mpg highway fuel efficiency
+    Honda Sensing safety suite, including collision mitigation braking and adaptive cruise control
+    Available Apple CarPlay and Android Auto integration
+    Available leather-trimmed interior and heated front seats
+
+2. Toyota Camry :-
+    2.5L 4-cylinder engine with up to 206 horsepower
+    Up to 39 mpg highway fuel efficiency
+    Toyota Safety Sense suite, including lane departure alert and automatic high beams
+    Available Apple CarPlay and Android Auto integration
+    Available leather-trimmed interior and heated front seats
+
+3. Audi A4 :-
+    2.0L 4-cylinder engine with up to 261 horsepower
+    Up to 34 mpg highway fuel efficiency
+    Audi pre sense city and basic safety systems, including rear view camera and lane departure warning
+    Standard 10.1-inch MMI touch display with available handwriting recognition and voice control
+    Available leather seating surfaces and heated front seats.
